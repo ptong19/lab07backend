@@ -1,0 +1,24 @@
+{
+  "name": "lab07backend",
+  "version": "1.0.0",
+  "description": "Lab 06 - Tuesday 7/30/2019  Node NPM Express with PT and Val",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptong19/lab07backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptong19/lab07backend/issues"
+  },
+  "homepage": "https://github.com/ptong19/lab07backend#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  }
+}
